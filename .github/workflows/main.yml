@@ -1,4 +1,4 @@
-name: Static Code test using SonarQube
+name: Static Code test using SonarQube1
 on:
   # Trigger analysis when pushing to your main branches, and when creating a pull request.
   push:
